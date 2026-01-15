@@ -13,7 +13,7 @@ body {
     font-family: Georgia, serif;
     font-size: 1rem;
     line-height: 1.5;
-    color: #333;
+    color: #000000;
     padding: clamp(12px, 1.5rem, 20px);
     max-width: 900px;
     margin: 0 auto;
